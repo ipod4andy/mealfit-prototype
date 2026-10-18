@@ -2,7 +2,7 @@
 
 > 인바디로 찾는 명지대 앞 맞춤 한 끼 — DEPth 5th MVP Project, Team 건강연구소
 
-**데모:** [GitHub Pages 링크 — 배포 후 기입]
+**데모:** https://ipod4andy.github.io/mealfit-prototype/
 
 이 레포는 제가 PM(기획 파트 리딩)으로서 **Claude Code로 만든 클릭 가능한 화면 프로토타입**입니다. 실제 서비스의 개발 구현(React, Spring Boot 등)은 팀의 개발 파트가 맡았고, 이 레포에는 포함되어 있지 않습니다.
 
